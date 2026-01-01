@@ -2599,7 +2599,7 @@ MonoBehaviour:
   - {fileID: 8926484042661615545}
   m_ExposedName: Color
   m_Exposed: 1
-  m_Order: 0
+  m_Order: 1
   m_Category: 
   m_Min:
     m_Type:
@@ -2816,7 +2816,7 @@ MonoBehaviour:
   - {fileID: 8926484042661615551}
   m_ExposedName: FlamesRate
   m_Exposed: 1
-  m_Order: 0
+  m_Order: 2
   m_Category: 
   m_Min:
     m_Type:
@@ -2897,7 +2897,7 @@ MonoBehaviour:
   - {fileID: 8926484042661615553}
   m_ExposedName: FlamesVelocity
   m_Exposed: 1
-  m_Order: 0
+  m_Order: 3
   m_Category: 
   m_Min:
     m_Type:
@@ -3090,7 +3090,7 @@ MonoBehaviour:
   - {fileID: 8926484042661615558}
   m_ExposedName: FlamesLifeTime
   m_Exposed: 1
-  m_Order: 0
+  m_Order: 4
   m_Category: 
   m_Min:
     m_Type:
@@ -3171,7 +3171,7 @@ MonoBehaviour:
   - {fileID: 8926484042661615560}
   m_ExposedName: FlamesSize
   m_Exposed: 1
-  m_Order: 0
+  m_Order: 5
   m_Category: 
   m_Min:
     m_Type:
